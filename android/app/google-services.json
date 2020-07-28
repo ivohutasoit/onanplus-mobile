@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "617452346707",
+    "firebase_url": "https://onanplus.firebaseio.com",
+    "project_id": "onanplus",
+    "storage_bucket": "onanplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617452346707:android:22267a9c86b4a89f5895a6",
+        "android_client_info": {
+          "package_name": "com.softhaxi.onanplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617452346707-mv5ah2k9fun3pm5pntrfs9krpbu03881.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqk7X6q3dCTUxHTipH60DxTgSKidYx3UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617452346707-mv5ah2k9fun3pm5pntrfs9krpbu03881.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
